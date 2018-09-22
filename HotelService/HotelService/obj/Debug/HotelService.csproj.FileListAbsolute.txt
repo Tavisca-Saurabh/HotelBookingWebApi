@@ -1,0 +1,17 @@
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\HotelService.dll.config
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\HotelService.dll
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\HotelService.pdb
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\obj\Debug\HotelService.csprojAssemblyReference.cache
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\obj\Debug\HotelService.csproj.CoreCompileInputs.cache
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\obj\Debug\HotelService.dll
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\obj\Debug\HotelService.pdb
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Cassandra.dll
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\LZ4.dll
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Cassandra.xml
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\smanchanda\Downloads\HotelWCF Project\HotelService\HotelService\obj\Debug\HotelService.csproj.CopyComplete

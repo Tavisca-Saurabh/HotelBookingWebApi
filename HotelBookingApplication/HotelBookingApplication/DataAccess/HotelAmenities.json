@@ -1,0 +1,72 @@
+﻿[
+  {
+    "Name": "Hyatt Regency",
+    "ID": 1,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Pune",
+    "image":"Hyatt.jpg"
+  },
+  {
+    "Name": "IBIS Hotel",
+    "ID": 2,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Pune",
+    "image":"Hyatt.jpg"
+  },
+  {
+    "Name": "Taj Hotel",
+    "ID": 3,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Mumbai",
+    "image":"Hyatt.jpg"
+  },
+ {
+    "Name": "No Votel",
+    "ID": 4,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Pune",
+    "image":"Hyatt.jpg"
+},
+  {
+    "Name": "Hotel Oberoi",
+    "ID": 5,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Mumbai",
+    "image":"Hyatt.jpg"
+  },
+  {
+    "Name": "Cosmo Luxury",
+    "ID": 6,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Pune",
+    "image":"Hyatt.jpg"
+ },
+ {
+    "Name": "Hotel Taj Palace",
+    "ID": 7,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Chandigarh",
+    "image":"Hyatt.jpg"
+  },
+  {
+    "Name": "JW Marriot",
+    "ID": 8,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Chandigarh",
+    "image":"Hyatt.jpg"
+  },
+  {
+    "Name": "Hotel Sunbeam",
+    "ID": 9,
+    "Amenities":"Swimming Pool,Gym,Sports Complex",
+    "Address": "Chandigarh",
+    "image":"Hyatt.jpg"
+   },
+  {
+    "Name": "Hotel LandMark",
+    "ID": 10,
+    "Amenities": "Swimming Pool,Gym,Sports Complex",
+    "Address": "Bangalore",
+    "image": "Hyatt.jpg"
+  }
+]
